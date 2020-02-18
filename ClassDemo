@@ -1,0 +1,4 @@
+class Demo:
+     x=5
+obj=Demo()
+print("output is {}".format(obj.x))
